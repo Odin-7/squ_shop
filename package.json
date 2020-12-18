@@ -11,15 +11,23 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
+    "better-scroll": "^2.0.6",
+    "date-fns": "^2.16.1",
+    "mint-ui": "^2.2.13",
+    "mock.js": "^0.2.0",
+    "moment": "^2.29.1",
     "swiper": "^6.3.5",
     "vue": "^2.5.2",
-    "vue-router": "^3.4.9"
+    "vue-lazyload": "^1.3.3",
+    "vue-router": "^3.4.9",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-loader": "^7.1.1",
+    "babel-plugin-component": "^1.1.1",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-transform-runtime": "^6.22.0",
     "babel-plugin-transform-vue-jsx": "^3.5.0",
